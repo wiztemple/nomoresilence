@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Roadside Bomb Kills 8 in Borno State",
+    "description": "A roadside bomb suspected to have been planted by Islamic extremists exploded under a passenger bus along the Damboa-Maiduguri highway in Borno State, northeastern Nigeria, killing eight individuals and injuring over a dozen others.",
+    "image": "https://www.washingtonpost.com/graphics/world/nigeria-boko-haram/",
+    "type": "Boko Haram",
+    "sources": [
+      {
+        "title": "A roadside bomb kills 8 bus passengers in northeast Nigeria",
+        "url": "https://apnews.com/article/10a769e94ab3c0b475e09f20ccd0742c"
+      }
+    ],
+    "region": "Borno State",
+    "accuracy": "High"
+  },
+  {
+    "title": "Fulani Herdsmen Attack in Plateau State",
+    "description": "At least 40 people were killed in a deadly attack by suspected Fulani Muslim herders on the predominantly Christian farming community of Zike in north-central Nigeria's Plateau State.",
+    "image": "https://qz.com/africa/1204744/nigeria-fulani-herdsmen-clashes-are-redefining-its-geopolitics",
+    "type": "Fulani Herdsmen",
+    "sources": [
+      {
+        "title": "Attack by gunmen leaves at least 40 people dead in Nigeria",
+        "url": "https://apnews.com/article/db71fad73dc1a15499079d5e6af19339"
+      }
+    ],
+    "region": "Plateau State",
+    "accuracy": "High"
+  },
+  {
+    "title": "IPOB Militants Kill Five in Anambra State",
+    "description": "Gunmen suspected to be members of the proscribed Indigenous People of Biafra (IPOB) and its armed wing, the Eastern Security Network (ESN), attacked a restaurant near the Odumegwu Ojukwu University gate in Uli, Anambra State, killing five people.",
+    "image": "https://naijagists.com/photos-ipob-members-set-aba-police-station-fire-attacking-policemen-duty/",
+    "type": "IPOB",
+    "sources": [
+      {
+        "title": "Communities Reel from Deadly Attacks by Bandits in Zamfara, IPOB",
+        "url": "https://prnigeria.com/2025/03/22/communities-deadly-attacks/"
+      }
+    ],
+    "region": "Anambra State",
+    "accuracy": "High"
+  }
+]
